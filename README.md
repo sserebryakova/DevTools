@@ -102,3 +102,27 @@
 
 *Абсолютный путь - /html/body/div[2]/div/div[2]/div[3]/div[1]/div/div/div[2]/div[2]/div/a.
 Относительный путь - //*[@id="container"]/div[1]/div/div/div[2]/div[2]/div/a.
+
+### XPath локатор для элемента «Аватар».
+
+![DevTools](images/Screenshot_1.png)
+
+### XPath локатор для элемента «Лайк».
+
+![DevTools](images/Screenshot_2.png)
+
+### XPath локатор для элемента пагинации.
+
+![DevTools](images/Screenshot_4.png)
+
+### XPath локатор для элемента "Профиль".
+
+![DevTools](images/Screenshot_5.png)
+
+### XPath локатор для элемента "за месяц".
+
+![DevTools](images/Screenshot_6.png)
+
+### XPath локатор для элемента "Имя пользователя".
+
+![DevTools](images/Screenshot_7.png)
